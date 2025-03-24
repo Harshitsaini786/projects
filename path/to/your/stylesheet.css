@@ -1,0 +1,149 @@
+.content{
+    text-transform: capitalize;
+    height:12vh;
+    width:100%;
+    background:linear-gradient(90deg,cyan,blue,cyan);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    border-radius: 13px;
+}
+#crativewebsite{
+    display: flex;
+    font-size: 5vh;
+    
+}
+.navcontainer{
+    height: 5vh;
+    width: 50%;
+    background:linear-gradient(grey,whitesmoke);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+   
+    
+   
+
+}
+a{
+    font-size: 3vh;
+    margin: 0 8%;
+    background-color: antiquewhite;
+    border-radius: 4px;
+   
+    
+}
+.intro{
+    max-width: 50%;
+    font-style: bold;
+    display: inline-block;
+    line-height: 1.6;
+
+}
+h1{
+    font-size: 5vh;
+  
+    
+}
+.img1{
+    width: 43%;
+    height:50vh;
+    float: right;
+    border-radius: 12px;
+    
+}
+section{
+    height: 65vh;  
+}
+hr{
+    height: 10vh;
+    background:linear-gradient(rgba(170, 170, 250, 0.923),black);
+}
+iframe{
+    width: 100%;
+    height:100%;
+    display: inline-block;
+    border-radius: 12px;
+    
+}
+#certificate{
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+   
+    
+
+    
+}
+#certificateimage{
+    height: 100%;
+    width: 45%;
+}
+#section2{
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    height: 65vh;
+
+
+}
+#certificateintro{
+    font-style: bold;
+    line-height: 1.6;
+  
+}
+#certificateheading{
+    font-size: xx-large;
+}
+.contact{
+    height: 12vh;
+  background: linear-gradient(grey,rgb(161, 161, 213));
+    margin-top: 3vh;
+}
+.contactus{
+    font-size: xx-large;
+
+}
+address{
+    font-size: x-large;
+}
+.address2{
+    font-size: x-large;
+    float: right;
+    position: relative;
+    bottom: 1vh;
+}
+body {
+    height: 100%;
+   
+}
+
+header {
+   
+}
+
+main {
+    flex: 1; 
+    overflow-y: auto; 
+}
+
+footer {
+    height: auto; 
+    margin-top: 8vh;
+}
+
+section {
+    height: auto; 
+}
+
+hr {
+    height: 10vh; 
+}
+body{
+ margin: 0;
+ padding:0;  
+}
+
+
+
